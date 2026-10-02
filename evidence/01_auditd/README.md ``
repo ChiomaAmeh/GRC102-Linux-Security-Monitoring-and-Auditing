@@ -1,0 +1,14 @@
+# Evidence Repository
+
+This folder contains all supporting evidence collected during the GRC102 Week 4 Practical Laboratory: Linux Security Monitoring and Auditing.
+
+The evidence is organised according to the assessment bundles required by the laboratory brief.
+
+## Structure
+
+- 00_environment
+- 01_auditd
+- 02_logs
+- 03_lynis
+
+Refer to EVIDENCE_INDEX.md for the detailed mapping between figures, screenshots, report sections and evidence bundles.
